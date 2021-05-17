@@ -1,0 +1,11 @@
+{
+  "BitPlayer": "Provides access to BitPlayer blocks for micro: bit functionality.",
+  "BitPlayer.KeyPressed": "Get the key state (pressed or not)",
+  "BitPlayer.KeyPressed|param|key": "the pin that acts as a button",
+  "BitPlayer.OnJoystick": "Get the joystick state",
+  "BitPlayer.OnJoystick|param|position": "the current position of joystick",
+  "BitPlayer.OnKey": "Do something when a key is pressed, releassed or clicked",
+  "BitPlayer.SetMotor": "turn on of off the vibration motor",
+  "BitPlayerKeyEvent": "Button Events of BitPlayer",
+  "Joystick": "***************************************************************************\r\n| Description :\tBitPlayer extension for micro:bit\r\n| Developer   :   CH Makered\r\n| More Info   :\thttp://chmakered.com/\r\n****************************************************************************"
+}

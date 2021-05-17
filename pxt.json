@@ -1,21 +1,21 @@
 {
-    "name": "001心",
-    "description": "",
+    "name": "bitplayer",
+    "version": "0.0.1",
+    "description": "The BitPlayer extension for micro:bit",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "radio": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md"
+        "README.md",
+        "bitplayer.cpp",
+        "bitplayer.ts",
+        "_locales/zh/bitplayer-strings.json",
+        "_locales/zh/bitplayer-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "supportedTargets": [
-        "microbit"
-    ],
-    "preferredEditor": "blocksprj"
+    "public": true
 }

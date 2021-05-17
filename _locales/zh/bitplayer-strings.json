@@ -1,0 +1,20 @@
+{
+    "Joystick.UpLeft|block": "左上",
+    "Joystick.Up|block": "↑ 上",
+    "Joystick.UpRight|block": "右上",
+    "Joystick.Left|block": "← 左",
+    "Joystick.Middle|block": "中间",
+    "Joystick.Right|block": "→ 右",
+    "Joystick.LowerLeft|block": "左下",
+    "Joystick.Down|block": "↓ 下",
+    "Joystick.LowerRight|block": "右下",
+
+    "BitPlayerKeyEvent.click|block": "单击",
+    "BitPlayerKeyEvent.pressed|block": "按下",
+    "BitPlayerKeyEvent.released|block": "松开",
+
+    "BitPlayer.OnKey|block": "当按键 $key| 被 $keyEvent",
+    "BitPlayer.KeyPressed|block": "按键 $key| 正被按下",
+    "BitPlayer.SetMotor|block": "振动 $on|",
+    "BitPlayer.OnJoystick|block": "摇杆推向 $position|"
+}
